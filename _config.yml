@@ -1,6 +1,4 @@
----
-layout: post
-title: Tip Calculator
----
 
+baseurl: "/blogjekyll"
+url: "https://TipCalculator.github.io"
 theme: jekyll-theme-cayman
